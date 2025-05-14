@@ -173,4 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 sprint_part4/
-sa_key/
+03_gcp_python/sa_key/
